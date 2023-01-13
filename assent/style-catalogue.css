@@ -180,7 +180,6 @@ nav .img-perfil img:hover{
     justify-content: center;
     width: 50%;
 }
-/*------------------------------------------------------------------*/
 
 .banner video{
     width: 1274px;
@@ -195,6 +194,8 @@ nav .img-perfil img:hover{
     background-color: black;
     transition: 0.5s ease-in-out;
 }
+
+/*------------------------------------------------------------------*/
 
 
 /*                        Catalogue                   */
